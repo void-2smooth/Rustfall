@@ -5,7 +5,7 @@
 
 ---
 
-![Development Status](https://img.shields.io/badge/Status-Early%20Development-red) ![License](https://img.shields.io/badge/License-Semi--Open--Source-orange) ![Discord](https://img.shields.io/badge/Discord-Join-blue)
+![Development Status](https://img.shields.io/badge/Status-Early%20Development-red) ![License](https://img.shields.io/badge/License-Semi--Open--Source-orange) ![Discord](https://img.shields.io/discord/1085409848573466622?color=7289DA&label=Discord) ![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue) ![Language: Dart](https://img.shields.io/badge/Language-Dart-0175C2)
 
 ---
 
@@ -34,7 +34,7 @@ By contributing, you help bring this world to life — but the final creative di
 
 ## 🛠 Get Involved
 
-To stay updated on development, join the **[Rustfall Discord](#)** (link coming soon). Here, you can:  
+To stay updated on development, join the **[Rustfall Discord](https://discord.gg/r9gXUzf4hK)**. Here, you can:  
 
 - 👀 Follow development progress  
 - 💡 Discuss ideas and improvements  
@@ -75,4 +75,4 @@ Rustfall is **semi-open source**. Please **do not steal or use the code for your
 
 ## 📬 Contact
 
-Stay updated and reach out via **Discord** (link coming soon). Let’s build something amazing together! 🚀
+Stay updated and reach out via **Discord**. Let’s build something amazing together! 🚀
