@@ -4,8 +4,7 @@
 
 *Your semi-open world post-apocalyptic adventure.*
 
-
-![Rustfall Banner](https://i.ibb.co/XrH6ZMDG/Rustfall-banner.png)
+![Rustfall banner](https://i.ibb.co/8DmX1R46/Rustfall-banner.jpg)
 
 
 
